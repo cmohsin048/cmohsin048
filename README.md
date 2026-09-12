@@ -12,7 +12,7 @@ Islamabad, Pakistan · Open to freelance work
 
 **Full-stack products** — Multi-role marketplaces with Stripe payments and webhook handling, real-time chat over Socket.io, calendar sync, and localisation. React Native clients sharing the same Express API.
 
-**AI features** — LLM integrity monitoring for production models, an OpenAI-backed wellness companion with crisis detection, AI-assisted campaign copy, and MCP servers that let Claude and other assistants query a live backlog.
+**AI features** — LLM integrity monitoring for production models, AI-assisted campaign copy with deliverability checks, and MCP servers with scoped personal tokens that let Claude and other assistants query an internal system directly.
 
 **Web3** — Solana wallet-adapter authentication where the wallet signs a server nonce instead of a password, SPL token transfers, and Solidity contracts using Chainlink VRF, tested with Hardhat.
 
@@ -22,8 +22,8 @@ Islamabad, Pakistan · Open to freelance work
 | --- | --- | --- |
 | **[Bookmi](https://bookmi.kakushin.io)** | React · Node · MongoDB · React Native · Stripe | Spot and service booking marketplace. Four roles, Stripe webhooks, real-time chat, EN/GR localisation, mobile app on the same API. |
 | **[Ability V2](https://github.com/chasgharali/ability_V2)** | React · Node · MongoDB · Redis · Twilio Video | Accessible video interview platform built to WCAG 2.1 AA. Seven roles, live queue management, interpreter support. |
-| **SprintForge** | Next.js · MongoDB · Socket.io · MCP | Self-hosted Jira alternative. Scrum and Kanban boards, sprint burndown, velocity and cumulative flow reporting. |
-| **8min** | Express · Mongoose · OpenAI · Stripe | AI companion that lowers emotional intensity in eight minutes. Crisis detection, guided micro-tools, voice mode. |
+| **RAIDS AI** | React · Node · Express · MongoDB | Real-time LLM integrity monitoring — detects rogue model behaviour in production AI systems. Primary developer across front end and API. |
+| **Project Vault** | Next.js · MongoDB · MCP | Internal secrets manager with per-project access control, AES-256-GCM encryption at rest, audit logging and an MCP server for AI clients. |
 | **[EventSage](https://eventsage-blue.vercel.app)** | React · Supabase · Twilio · Stripe | Event planning with drag-and-drop boards, proposal builder, supplier invoices and subscription billing. |
 | **[islamicfunds.pk](https://investing-mauve.vercel.app)** | Next.js · Supabase · Recharts | Compare Shariah-compliant mutual funds in Pakistan and project SIP returns on historical NAV data. |
 
