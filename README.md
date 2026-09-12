@@ -4,7 +4,7 @@
 
 Islamabad, Pakistan · Open to freelance work
 
-[Portfolio](https://github.com/cmohsin048) · [LinkedIn](https://www.linkedin.com/in/mohsinraza048) · [Email](mailto:cmohsin048@gmail.com)
+[Portfolio](https://mohsinrazadev.vercel.app) · [LinkedIn](https://www.linkedin.com/in/mohsinraza048) · [Email](mailto:cmohsin048@gmail.com)
 
 ---
 
