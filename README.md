@@ -1,6 +1,6 @@
 # Mohsin Raza
 
-**MERN stack developer** — MongoDB, Express, React, Node. I build marketplaces, SaaS products, LLM-backed tools and Solana dApps, and I keep them running after launch.
+**Full stack developer** — MongoDB, Express, React, Node. I build marketplaces, SaaS products, LLM-backed tools and Solana dApps, and I keep them running after launch.
 
 Islamabad, Pakistan · Open to freelance work
 
